@@ -1,0 +1,15 @@
+{
+  "total_proteins": 9987,
+  "train_size": 7989,
+  "val_size": 999,
+  "test_size": 999,
+  "avg_sequence_length": 623.6145989786722,
+  "std_sequence_length": 690.2269306984128,
+  "min_sequence_length": 34,
+  "max_sequence_length": 34350,
+  "avg_function_words": 85.20917192350055,
+  "std_function_words": 88.90212047989337,
+  "min_function_words": 2,
+  "max_function_words": 1558,
+  "unique_accessions": 9987
+}
