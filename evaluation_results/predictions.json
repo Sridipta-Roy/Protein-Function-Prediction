@@ -1,0 +1,702 @@
+[
+  {
+    "index": 0,
+    "accession": "A0PJW6",
+    "protein_name": "Transmembrane protein 223",
+    "ground_truth": "Mitochondrial ribosome-associated protein involved in the first steps of cytochrome c oxidase complex (complex IV) biogenesis (PubMed:34969438). Stimulates the translation of MT-CO1 mRNA and is a constituent of early MT-CO1 assembly intermediates (PubMed:34969438)",
+    "prediction": "Accessory subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that is believed not to be involved in catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone"
+  },
+  {
+    "index": 1,
+    "accession": "A0PJW8",
+    "protein_name": "Death-associated protein-like 1",
+    "ground_truth": "May play a role in the early stages of epithelial differentiation or in apoptosis",
+    "prediction": "Acts as a component of the histone deacetylase NuRD complex which participates in the remodeling of chromatin (PubMed:33283408). Inhibits cell cycle G1/S phase transition by repressing CDK2 expression and activation; represses CDK2 activation by inhibiting its interaction with cyclin E and A (PubMed:23781148). Plays a role in regulating the self-renewal of embryonic stem cells (ESCs) and in maintaining cell survival during terminal differentiation of ESCs (By similarity)."
+  },
+  {
+    "index": 2,
+    "accession": "A2VDF0",
+    "protein_name": "Fucose mutarotase",
+    "ground_truth": "Involved in the interconversion between alpha- and beta-L-fucoses. L-Fucose (6-deoxy-L-galactose) exists as alpha-L-fucose (29.5) and beta-L-fucose (70.5), the beta-form is metabolized through the salvage pathway. GDP-L-fucose formed either by the de novo or salvage pathways is transported into the endoplasmic reticulum, where it serves as a substrate for N- and O-glycosylations by fucosyltransferases.",
+    "prediction": "Part of a nucleotide salvage pathway that eliminates epigenetically modified 5-hydroxymethyl-dCMP (hmdCMP) in a two-step process entailing deamination to cytotoxic 5-hydroxymethyl-dUMP (hmdUMP), followed by its hydrolysis into 5-hydroxymethyluracil (hmU) and 2-deoxy-D-ribose 5-phosphate (deoxyribosephosphate) (PubMed:33833118). Catalyzes the second step in that pathway, the hydrolysis of the N-glycosidic bond in hmdUMP, degrading this cytotoxic nucleotide to avoid its genomic integration (PubMed:33833118)"
+  },
+  {
+    "index": 3,
+    "accession": "A6NCL1",
+    "protein_name": "Geminin coiled-coil domain-containing protein 1",
+    "ground_truth": "Regulator of DNA replication. Promotes initiation of chromosomal DNA replication by mediating TOPBP1- and CDK2-dependent recruitment of CDC45L onto replication origins (By similarity)",
+    "prediction": "Positively regulates the transcription of MYCNOS in neuroblastoma cells"
+  },
+  {
+    "index": 4,
+    "accession": "A6NEQ0",
+    "protein_name": "RNA-binding motif protein, Y chromosome, family 1 member E",
+    "ground_truth": "RNA-binding protein which may be involved in spermatogenesis. Required for sperm development, possibly by participating in pre-mRNA splicing in the testis",
+    "prediction": "Splicing factor specifically required for neural cell differentiation. Acts in conjunction with nPTB/PTBP2 by binding directly to its regulated target transcripts and promotes neural-specific exon inclusion in many genes that function in neural cell differentiation. Required to promote the inclusion of neural-specific exon 10 in nPTB/PTBP2, leading to increased expression of neural-specific nPTB/PTBP2."
+  },
+  {
+    "index": 5,
+    "accession": "A6NHC0",
+    "protein_name": "Calpain-8",
+    "ground_truth": "Calcium-regulated non-lysosomal thiol-protease. Involved in membrane trafficking in the gastric surface mucus cells (pit cells) and may involve the membrane trafficking of mucus cells via interactions with coat protein. Proteolytically cleaves the beta-subunit of coatomer complex (By similarity)",
+    "prediction": "Calcium-regulated non-lysosomal thiol-protease which catalyzes limited proteolysis of substrates involved in cytoskeletal remodeling and signal transduction (PubMed:19617626, PubMed:21531719, PubMed:2400579). Proteolytically cleaves CTBP1 at Asn-375, Gly-387 and His-409 (PubMed:23707407). Cleaves and activates caspase-7 (CASP7) (PubMed:19617626)"
+  },
+  {
+    "index": 6,
+    "accession": "A6NHN0",
+    "protein_name": "Otolin-1",
+    "ground_truth": "Collagen-like protein specifically expressed in the inner ear, which provides an organic scaffold for otoconia, a calcium carbonate structure in the saccule and utricle of the ear. Acts as a scaffold for biomineralization: sequesters calcium and forms interconnecting fibrils between otoconia that are incorporated into the calcium crystal structure. Together with OC90, modulates calcite crystal morphology and growth kinetics",
+    "prediction": "Core component of the complement C1 complex, a multiprotein complex that initiates the classical pathway of the complement system, a cascade of proteins that leads to phagocytosis and breakdown of pathogens and signaling that strengthens the adaptive immune system (PubMed:12847249, PubMed:19006321, PubMed:24626930, PubMed:29449492, PubMed:3258649, PubMed:34155115, PubMed:6249812, PubMed:6776418). The classical complement pathway is initiated by the C1Q subcomplex of the C1 complex, which specifically binds IgG or IgM immunoglobulins complexed with antigens, forming antigen-antibody complexes on the surface of pathogens: C1QA, together with C1QB and C1QC, specifically recognizes and binds the Fc regions of IgG or IgM via its C1q domain (PubMed:12847249, PubMed:19006321, PubMed:24626930, PubMed:29449492, PubMed:3258649, PubMed:6776418). Immunoglobulin-binding activates the proenzyme C1R, which cleaves C1S, initiating the proteolytic cascade of the complement"
+  },
+  {
+    "index": 7,
+    "accession": "A6NJT0",
+    "protein_name": "Homeobox protein unc-4 homolog",
+    "ground_truth": "Transcription factor involved in somitogenesis and neurogenesis. Required for the maintenance and differentiation of particular elements of the axial skeleton. May act upstream of PAX9.",
+    "prediction": "Probable transcription factor involved in embryogenesis and somatogenesis"
+  },
+  {
+    "index": 8,
+    "accession": "A6NJW9",
+    "protein_name": "T-cell surface glycoprotein CD8 beta-2 chain",
+    "ground_truth": "Identifies cytotoxic/suppressor T-cells that interact with MHC class I bearing targets. CD8 is thought to play a role in the process of T-cell mediated killing (By similarity)",
+    "prediction": "C-type lectin-like receptor involved in natural killer cell mediated cytotoxicity and cytokine secretion in keratinocytes via its interaction with CLEC2A (PubMed:20189751, PubMed:25489582). Triggers degranulation in a SYK-dependent manner and stimulates SYK phosphotyrosinylation without recruiting SYK directly (PubMed:28082678)"
+  },
+  {
+    "index": 9,
+    "accession": "A6NM10",
+    "protein_name": "Putative aquaporin-12B",
+    "ground_truth": "Putative aquaporin. Could form homotetrameric transmembrane channels, with each monomer independently mediating water transport across the plasma membrane along its osmotic gradient",
+    "prediction": "Facilitative glucose transporter required for the development of the cardiovascular system"
+  },
+  {
+    "index": 10,
+    "accession": "B1AL88",
+    "protein_name": "NALCN channel auxiliary factor 1",
+    "ground_truth": "Auxillary component of the NALCN sodium channel complex, a channel that regulates the resting membrane potential and controls neuronal excitability",
+    "prediction": "Specifically binds vasopressin Has a direct antidiuretic action on the kidney, it also causes vasoconstriction of the peripheral vessels. Acts by binding to vasopressin receptors (V1bR/AVPR1B, V1aR/AVPR1A, and V2R/AVPR2) (PubMed:18174156)"
+  },
+  {
+    "index": 11,
+    "accession": "B4DS77",
+    "protein_name": "Protein shisa-9",
+    "ground_truth": "Regulator of short-term neuronal synaptic plasticity in the dentate gyrus. Associates with AMPA receptors (ionotropic glutamate receptors) in synaptic spines and promotes AMPA receptor desensitization at excitatory synapses (By similarity)",
+    "prediction": "May be involved in the molecular organization of synapses and neuronal cell signaling. Could be an adapter protein linking ion channel to the subsynaptic cytoskeleton. May induce enrichment of PSD-95/SAP90 at the plasma membrane"
+  },
+  {
+    "index": 12,
+    "accession": "O00398",
+    "protein_name": "Putative P2Y purinoceptor 10",
+    "ground_truth": "Putative receptor for purines coupled to G-proteins",
+    "prediction": "G-protein-coupled receptor that is activated by a major product of dietary fiber digestion, the short chain fatty acids (SCFAs), and that plays a role in the regulation of whole-body energy homeostasis and in intestinal immunity. In omnivorous mammals, the short chain fatty acids acetate, propionate and butyrate are produced primarily by the gut microbiome that metabolizes dietary fibers. SCFAs serve as a source of energy but also act as signaling molecules."
+  },
+  {
+    "index": 13,
+    "accession": "O00534",
+    "protein_name": "von Willebrand factor A domain-containing protein 5A",
+    "ground_truth": "May play a role in tumorigenesis as a tumor suppressor. Altered expression of this protein and disruption of the molecular pathway it is involved in, may contribute directly to or modify tumorigenesis",
+    "prediction": "Phosphorylates myosin light chains (By similarity). Acts as a positive regulator of apoptosis"
+  },
+  {
+    "index": 14,
+    "accession": "O14602",
+    "protein_name": "Eukaryotic translation initiation factor 1A, Y-chromosomal",
+    "ground_truth": "Component of the 43S pre-initiation complex (43S PIC), which binds to the mRNA cap-proximal region, scans mRNA 5-untranslated region, and locates the initiation codon. This protein enhances formation of the cap-proximal complex. Together with EIF1, facilitates scanning, start codon recognition, promotion of the assembly of 48S complex at the initiation codon (43S PIC becomes 48S PIC after the start codon is reached), and dissociation of aberrant complexes.",
+    "prediction": "Component of the spliceosomal U1 snRNP, which is essential for recognition of the pre-mRNA 5 splice-site and the subsequent assembly of the spliceosome (PubMed:17581052, PubMed:25555158). SNRNP70 binds to the loop I region of U1-snRNA (PubMed:17581052, PubMed:25555158) Truncated isoforms that lack the RRM domain cannot bind U1-snRNA Truncated isoforms that lack the RRM domain cannot bind U1-snRNA"
+  },
+  {
+    "index": 15,
+    "accession": "O14957",
+    "protein_name": "Cytochrome b-c1 complex subunit 10",
+    "ground_truth": "Component of the ubiquinol-cytochrome c oxidoreductase, a multisubunit transmembrane complex that is part of the mitochondrial electron transport chain which drives oxidative phosphorylation. The respiratory chain contains 3 multisubunit complexes succinate dehydrogenase (complex II, CII), ubiquinol-cytochrome c oxidoreductase (cytochrome b-c1 complex, complex III, CIII) and cytochrome c oxidase (complex IV, CIV), that cooperate to transfer electrons derived from NADH and succinate to molecular oxygen, creating an electrochemical gradient over the inner membrane that drives transmembrane transport and the ATP synthase. The cytochrome b-c1 complex catalyzes electron transfer from ubiquinol to cytochrome c, linking this redox reaction to translocation of protons across the mitochondrial inner membrane, with protons being carried across the membrane as hydrogens on the quinol.",
+    "prediction": "Essential component of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that catalyzes electron transfer from NADH through the respiratory chain, using ubiquinone as an electron acceptor (PubMed:15250827). Essential for the catalytic activity and assembly of complex I (PubMed:15250827)"
+  },
+  {
+    "index": 16,
+    "accession": "O60262",
+    "protein_name": "Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-7",
+    "ground_truth": "Guanine nucleotide-binding proteins (G proteins) are involved as a modulator or transducer in various transmembrane signaling systems. The beta and gamma chains are required for the GTPase activity, for replacement of GDP by GTP, and for G protein-effector interaction. Plays a role in the regulation of adenylyl cyclase signaling in certain regions of the brain.",
+    "prediction": "Has a stimulatory effect on the ATPase activity of HSP70 in a dose-dependent and time-dependent manner and hence acts as a co-chaperone of HSP70 (PubMed:10954706, PubMed:28233300). Plays an indispensable role in the organization of KRT8/KRT18 filaments (PubMed:10954706). Acts as an endogenous molecular chaperone for neuronal proteins including huntingtin (PubMed:11896048, PubMed:22366786)."
+  },
+  {
+    "index": 17,
+    "accession": "O60330",
+    "protein_name": "Protocadherin gamma-A12",
+    "ground_truth": "Potential calcium-dependent cell-adhesion protein. May be involved in the establishment and maintenance of specific neuronal connections in the brain",
+    "prediction": "Promotes endothelial cell sprouting and actin cytoskeletal reorganization. May be involved in angiogenesis. May function in Ca(2) signaling"
+  },
+  {
+    "index": 18,
+    "accession": "O60542",
+    "protein_name": "Persephin",
+    "ground_truth": "Growth factor that exhibits neurotrophic activity on mesencephalic dopaminergic and motor neurons (PubMed:11116144, PubMed:9491986). Acts by binding to its coreceptor, GFRA4, leading to autophosphorylation and activation of the RET receptor (PubMed:11116144)",
+    "prediction": "Involved in the suppression of bile acid biosynthesis through down-regulation of CYP7A1 expression, following positive regulation of the JNK and ERK1/2 cascades. Stimulates glucose uptake in adipocytes. Activity requires the presence of KLB and FGFR4"
+  },
+  {
+    "index": 19,
+    "accession": "O75157",
+    "protein_name": "TSC22 domain family protein 2",
+    "ground_truth": "Reduces the level of nuclear PKM isoform M2 which results in repression of cyclin CCND1 transcription and reduced cell growth",
+    "prediction": "Transcriptional activator which is required for calcium-dependent dendritic growth and branching in cortical neurons. Recruits CREB-binding protein (CREBBP) to nuclear bodies. Component of the CREST-BRG1 complex, a multiprotein complex that regulates promoter activation by orchestrating a calcium-dependent release of a repressor complex and a recruitment of an activator complex."
+  },
+  {
+    "index": 20,
+    "accession": "O75973",
+    "protein_name": "C1q-related factor",
+    "ground_truth": "May regulate the number of excitatory synapses that are formed on hippocampus neurons. Has no effect on inhibitory synapses (By similarity)",
+    "prediction": "Peroxisomal transporter for multiple cofactors like coenzyme A (CoA), flavin adenine dinucleotide (FAD), flavin mononucleotide (FMN) and nucleotide adenosine monophosphate (AMP), and to a lesser extent for nicotinamide adenine dinucleotide (NAD()), adenosine diphosphate (ADP) and adenosine 3,5-diphosphate (PAP). May catalyze the transport of free CoA, FAD and NAD() from the cytosol into the peroxisomal matrix by a counter-exchange mechanism"
+  },
+  {
+    "index": 21,
+    "accession": "O94903",
+    "protein_name": "Pyridoxal phosphate homeostasis protein",
+    "ground_truth": "Pyridoxal 5-phosphate (PLP)-binding protein, which may be involved in intracellular homeostatic regulation of pyridoxal 5-phosphate (PLP), the active form of vitamin B6",
+    "prediction": "Catalyzes the irreversible transamination of the L-tryptophan metabolite L-kynurenine to form kynurenic acid (KA). As a member of the malate-aspartate shuttle, it has a key role in the intracellular NAD(H) redox balance. Is important for metabolite exchange between mitochondria and cytosol, and for amino acid metabolism."
+  },
+  {
+    "index": 22,
+    "accession": "O95371",
+    "protein_name": "Olfactory receptor 2C1",
+    "ground_truth": "Olfactory receptor that is activated by the binding of organosulfur odorants with thioether groups such as (methylthio)methanetiol (MTMT) (By similarity). Also binds odorants acetophenone and benzaldehyde (By similarity). The activity of this receptor is mediated by G proteins which activate adenylyl cyclase (By similarity).",
+    "prediction": "Olfactory receptor specific for trimethylamine, a trace amine (PubMed:23393561). Also activated at lower level by dimethylethylamine (PubMed:23393561). Trimethylamine is a bacterial metabolite found in some animal odors, and to humans it is a repulsive odor associated with bad breath and spoiled food (PubMed:23393561)."
+  },
+  {
+    "index": 23,
+    "accession": "O95411",
+    "protein_name": "Putative TGFB1-induced anti-apoptotic factor 1",
+    "ground_truth": "Inhibits the cytotoxic effects of TNF-alpha and overexpressed TNF receptor adapters TRADD, FADD, and RIPK1. Involved in TGF-beta1 inhibition of IkappaB-alpha expression and suppression of TNF-mediated IkappaB-alpha degradation",
+    "prediction": "Transcription factor which may play a role in oogenesis. Binds preferentially to the DNA sequences 5-TAATTG-3, 5-TAGTTG-3 and 5-TAATTA-3"
+  },
+  {
+    "index": 24,
+    "accession": "O95620",
+    "protein_name": "tRNA-dihydrouridine(20a/20b) synthase [NAD(P)+]-like",
+    "ground_truth": "Catalyzes the synthesis of dihydrouridine, a modified base found in the D-loop of most tRNAs",
+    "prediction": "Cleaves phosphorylated sphingoid bases (PSBs), such as sphingosine-1-phosphate, into fatty aldehydes and phosphoethanolamine. Elevates stress-induced ceramide production and apoptosis (PubMed:11018465, PubMed:14570870, PubMed:24809814, PubMed:28165339). Required for global lipid homeostasis in liver and cholesterol homeostasis in fibroblasts."
+  },
+  {
+    "index": 25,
+    "accession": "O95838",
+    "protein_name": "Glucagon-like peptide 2 receptor",
+    "ground_truth": "This is a receptor for glucagon-like peptide 2. The activity of this receptor is mediated by G proteins which activate adenylyl cyclase",
+    "prediction": "Receptor for the immunoglobulin G (IgG) antigenic ligand. The IgG antigens stimulate the secretion of secretory IgM and the assembly of IgG-based immune complexes that bind and activate complement proteins, leading to both antibody-mediated opsonization and phagocytosis and the lysosomal degradation of pathogens. In contrast, the IgG receptor does not mediate antigen uptake by dendritic cells, but rather stimulates their proliferation and maturation into T-cells."
+  },
+  {
+    "index": 26,
+    "accession": "P01714",
+    "protein_name": "Immunoglobulin lambda variable 3-19",
+    "ground_truth": "V region of the variable domain of immunoglobulin light chains that participates in the antigen recognition (PubMed:24600447). Immunoglobulins, also known as antibodies, are membrane-bound or secreted glycoproteins produced by B lymphocytes. In the recognition phase of humoral immunity, the membrane-bound immunoglobulins serve as receptors which, upon binding of a specific antigen, trigger the clonal expansion and differentiation of B lymphocytes into immunoglobulins-secreting plasma cells.",
+    "prediction": "V region of the variable domain of immunoglobulin light chains that participates in the antigen recognition (PubMed:24600447). Immunoglobulins, also known as antibodies, are membrane-bound or secreted glycoproteins produced by B lymphocytes. In the recognition phase of humoral immunity, the membrane-bound immunoglobulins serve as receptors which, upon binding of a specific antigen, trigger the clonal expansion and differentiation of B lymphocytes into immunoglobulins-secreting plasma cells."
+  },
+  {
+    "index": 27,
+    "accession": "P04808",
+    "protein_name": "Prorelaxin H1",
+    "ground_truth": "Relaxin is an ovarian hormone that acts with estrogen to produce dilatation of the birth canal in many mammals. May be involved in remodeling of connective tissues during pregnancy, promoting growth of pubic ligaments and ripening of the cervix",
+    "prediction": "Relaxin is an ovarian hormone that acts with estrogen to produce dilatation of the birth canal in many mammals. May be involved in remodeling of connective tissues during pregnancy, promoting growth of pubic ligaments and ripening of the cervix"
+  },
+  {
+    "index": 28,
+    "accession": "P09093",
+    "protein_name": "Chymotrypsin-like elastase family member 3A",
+    "ground_truth": "Efficient protease with alanine specificity but only little elastolytic activity",
+    "prediction": "Important role in determination of the surface properties of the casein micelles"
+  },
+  {
+    "index": 29,
+    "accession": "P09630",
+    "protein_name": "Homeobox protein Hox-C6",
+    "ground_truth": "Sequence-specific transcription factor which is part of a developmental regulatory system that provides cells with specific positional identities on the anterior-posterior axis",
+    "prediction": "Sequence-specific transcription factor which is part of a developmental regulatory system that provides cells with specific positional identities on the anterior-posterior axis"
+  },
+  {
+    "index": 30,
+    "accession": "P0DN77",
+    "protein_name": "Medium-wave-sensitive opsin 2",
+    "ground_truth": "Visual pigments are the light-absorbing molecules that mediate vision. They consist of an apoprotein, opsin, covalently linked to cis-retinal",
+    "prediction": "Visual pigments are the light-absorbing molecules that mediate vision. They consist of an apoprotein, opsin, covalently linked to cis-retinal (Probable). Required for the maintenance of cone outer segment organization in the ventral retina, but not essential for the maintenance of functioning cone photoreceptors (By similarity)."
+  },
+  {
+    "index": 31,
+    "accession": "P16260",
+    "protein_name": "Solute carrier family 25 member 16",
+    "ground_truth": "May be involved in the transport of coenzyme A in the mitochondrial matrix (PubMed:11158296). Very little is known about the physiological function of this carrier (PubMed:11158296)",
+    "prediction": "Visual pigments are the light-absorbing molecules that mediate vision. They consist of an apoprotein, opsin, covalently linked to cis-retinal (Probable). Required for the maintenance of cone outer segment organization in the ventral retina, but not essential for the maintenance of functioning cone photoreceptors (By similarity)."
+  },
+  {
+    "index": 32,
+    "accession": "P22531",
+    "protein_name": "Small proline-rich protein 2E",
+    "ground_truth": "Cross-linked envelope protein of keratinocytes. It is a keratinocyte protein that first appears in the cell cytosol, but ultimately becomes cross-linked to membrane proteins by transglutaminase. All that results in the formation of an insoluble envelope beneath the plasma membrane",
+    "prediction": "Metallothioneins have a high content of cysteine residues that bind various heavy metals; these proteins are transcriptionally regulated by both heavy metals and glucocorticoids"
+  },
+  {
+    "index": 33,
+    "accession": "P43627",
+    "protein_name": "Killer cell immunoglobulin-like receptor 2DL2",
+    "ground_truth": "Receptor on natural killer (NK) cells for HLA-Cw1, 3, 7, and 8 allotypes. Inhibits the activity of NK cells thus preventing cell lysis",
+    "prediction": "May act as receptor (By similarity). Negatively regulates TCR-mediated CD4() T cell proliferation and activation, possibly by binding an unknown ligand on the T cell surface (PubMed:26311901). Enhances Toll-like receptor-mediated production of pro-inflammatory cytokines by macrophages and neutrophils (By similarity)"
+  },
+  {
+    "index": 34,
+    "accession": "P57775",
+    "protein_name": "F-box/WD repeat-containing protein 4",
+    "ground_truth": "Probably recognizes and binds to some phosphorylated proteins and promotes their ubiquitination and degradation. Likely to be involved in key signaling pathways crucial for normal limb development. May participate in Wnt signaling",
+    "prediction": "Scaffold protein that directs Cd9 to DNA-binding domains on histone H3. Plays a role in regulating transcriptional activation of genes mediated by the TLR pathway. May play a role in regulating activation resulting from extracellular Toll-like receptor signaling"
+  },
+  {
+    "index": 35,
+    "accession": "P59534",
+    "protein_name": "Taste receptor type 2 member 39",
+    "ground_truth": "Receptor that may play a role in the perception of bitterness and is gustducin-linked. May play a role in sensing the chemical composition of the gastrointestinal content. The activity of this receptor may stimulate alpha gustducin, mediate PLC-beta-2 activation and lead to the gating of TRPM5 (By similarity)",
+    "prediction": "Receptor for angiotensin 1-7 (By similarity). Acts specifically as a functional antagonist of AGTR1 (angiotensin-2 type 1 receptor), although it up-regulates AGTR1 receptor levels. Positive regulation of AGTR1 levels occurs through activation of the G-proteins GNA11 and GNAQ, and stimulation of the protein kinase C signaling cascade."
+  },
+  {
+    "index": 36,
+    "accession": "P60413",
+    "protein_name": "Keratin-associated protein 10-12",
+    "ground_truth": "In the hair cortex, hair keratin intermediate filaments are embedded in an interfilamentous matrix, consisting of hair keratin-associated proteins (KRTAP), which are essential for the formation of a rigid and resistant hair shaft through their extensive disulfide bond cross-linking with abundant cysteine residues of hair keratins. The matrix proteins include the high-sulfur and high-glycine-tyrosine keratins",
+    "prediction": "May play a role in the regulation of embryonic development and cell proliferation. Could also play a role in wound healing"
+  },
+  {
+    "index": 37,
+    "accession": "P63130",
+    "protein_name": "Endogenous retrovirus group K member 7 Gag polyprotein",
+    "ground_truth": "The products of the Gag polyproteins of infectious retroviruses perform highly complex orchestrated tasks during the assembly, budding, maturation, and infection stages of the viral replication cycle. During viral assembly, the proteins form membrane associations and self-associations that ultimately result in budding of an immature virion from the infected cell. Gag precursors also function during viral assembly to selectively bind and package two plus strands of genomic RNA.",
+    "prediction": "Appears to be a stable component of the Pol II(G) complex form of RNA polymerase II (Pol II). Pol II synthesizes mRNA precursors and many functional non-coding RNAs and is the central component of the basal RNA polymerase II transcription machinery. May play a role in the Mediator complex-dependent regulation of transcription activation."
+  },
+  {
+    "index": 38,
+    "accession": "P63132",
+    "protein_name": "Endogenous retrovirus group K member 113 Pol protein",
+    "ground_truth": "Early post-infection, the reverse transcriptase converts the viral RNA genome into double-stranded viral DNA. The RNase H domain of the reverse transcriptase performs two functions. It degrades the RNA template and specifically removes the RNA primer from the RNA/DNA hybrid.",
+    "prediction": "Catalyzes the transfer of a ribitol-phosphate from CDP-ribitol to the distal N-acetylgalactosamine of the phosphorylated O-mannosyl trisaccharide (N-acetylgalactosamine-beta-3-N-acetylglucosamine-beta-4-(phosphate-6-)mannose), a carbohydrate structure present in alpha-dystroglycan (DAG1) (PubMed:26923585, PubMed:27422578, PubMed:29476684). This constitutes the first step in the formation of the ribitol 5-phosphate tandem repeat which links the phosphorylated O-mannosyl trisaccharide to the ligand binding moiety composed of repeats of 3-xylosyl-alpha-1,3-glucuronic acid-beta-1 (PubMed:17347584, PubMed:25279699, PubMed:26923585, PubMed:27422578, PubMed:29476684). Required for normal location of POMGNT1 in Golgi membranes, and for normal POMGNT1 activity (PubMed:173475"
+  },
+  {
+    "index": 39,
+    "accession": "P82970",
+    "protein_name": "High mobility group nucleosome-binding domain-containing protein 5",
+    "ground_truth": "Preferentially binds to euchromatin and modulates cellular transcription by counteracting linker histone-mediated chromatin compaction",
+    "prediction": "Plays a role in the formation of diploid chromosomes and in chromosomal recombination"
+  },
+  {
+    "index": 40,
+    "accession": "Q0P6D6",
+    "protein_name": "Coiled-coil domain-containing protein 15",
+    "ground_truth": "Plays an important role in primary cilium assembly, maintenance, and length regulation. Interacts with centriole inner scaffold proteins to promote proper centriole size and integrity and assembly of functional cilia. Required for the recruitment of both the inner scaffold protein POC1B and the distal SFI1/CETN2 complex to centrioles",
+    "prediction": "Endonuclease that catalyzes the cleavage of RNA on the 3 side of pyrimidine nucleotides. Acts on single-stranded and double-stranded RNA"
+  },
+  {
+    "index": 41,
+    "accession": "Q14439",
+    "protein_name": "G-protein coupled receptor 176",
+    "ground_truth": "Orphan receptor involved in normal circadian rhythm behavior. Acts through the G-protein subclass G(z)-alpha and has an agonist-independent basal activity to repress cAMP production",
+    "prediction": "Cytokine that binds to TNFRSF11B/OPG and to TNFRSF11A/RANK. Osteoclast differentiation and activation factor. Augments the ability of dendritic cells to stimulate naive T-cell proliferation."
+  },
+  {
+    "index": 42,
+    "accession": "Q15620",
+    "protein_name": "Olfactory receptor 8B8",
+    "ground_truth": "Odorant receptor (Potential). May be involved in taste perception",
+    "prediction": "NAD-dependent oxidoreductase with broad substrate specificity that shows both oxidative and reductive activity (in vitro). Has 17-beta-hydroxysteroid dehydrogenase activity towards various steroids (in vitro). Converts 5-alpha-androstan-3-alpha,17-beta-diol to androsterone and estradiol to estrone (in vitro)."
+  },
+  {
+    "index": 43,
+    "accession": "Q15760",
+    "protein_name": "Probable G-protein coupled receptor 19",
+    "ground_truth": "G-protein coupled receptor that plays a role in the regulation of circadian rhythms and energy metabolism. Participates in maintaining proper circadian gene expression in the suprachiasmatic nucleus (SCN), the locus of the master circadian clock in the brain (By similarity). May function as a coordinator of aging-associated metabolic dysfunction, stress response, DNA integrity management, and eventual senescence (PubMed:37239845).",
+    "prediction": "Receptor for angiotensin 1-7 (By similarity). Acts specifically as a functional antagonist of AGTR1 (angiotensin-2 type 1 receptor), although it up-regulates AGTR1 receptor levels. Positive regulation of AGTR1 levels occurs through activation of the G-proteins GNA11 and GNAQ, and stimulation of the protein kinase C signaling cascade."
+  },
+  {
+    "index": 44,
+    "accession": "Q16589",
+    "protein_name": "Cyclin-G2",
+    "ground_truth": "May play a role in growth regulation and in negative regulation of cell cycle progression",
+    "prediction": "Acts as an adapter protein for a group of E3 ubiquitin-protein ligases that play a role in the translation-dependent degradation of protein substrates (PubMed:11146224, PubMed:12399544, PubMed:12516727, PubMed:12859233, PubMed:14862615, PubMed:15897734, PubMed:17112187, PubMed:1764642, PubMed:21923500, PubMed:23082649, PubMed:24559997, PubMed:32137247, PubMed:34917926, PubMed:34855927). Plays a role in the cross-linking of ubiquitin and is a key regulator of the ubiquitin-proteasome and the proteasome-lysosome pathways (PubMed:12399544, PubMed:12516727, PubMed:12859233, PubMed:14862615, PubMed:15897734, PubMed:17112187, PubMed:1764642, PubMed:21923500, PubMed:23082649, PubMed:24559997, PubMed:34817926, PubMed:3459574). Acts as a scaffold protein for E3 ligases and promotes the"
+  },
+  {
+    "index": 45,
+    "accession": "Q2M3G4",
+    "protein_name": "Protein Shroom1",
+    "ground_truth": "May be involved in the assembly of microtubule arrays during cell elongation",
+    "prediction": "Recruits the Arp2/3 complex to the cell cortex and regulates reorganization of the cortical actin cytoskeleton via its interaction with KCNC3 and the Arp2/3 complex (PubMed:26997484). Slows down the rate of inactivation of KCNC3 channels (PubMed:26997484). Promotes GNA13-mediated cell migration."
+  },
+  {
+    "index": 46,
+    "accession": "Q2NL82",
+    "protein_name": "Pre-rRNA-processing protein TSR1 homolog",
+    "ground_truth": "Required during maturation of the 40S ribosomal subunit in the nucleolus",
+    "prediction": "Part of a nucleotide salvage pathway that eliminates epigenetically modified 5-hydroxymethyl-dCMP (hmdCMP) in a two-step process entailing deamination to cytotoxic 5-hydroxymethyl-dUMP (hmdUMP), followed by its hydrolysis into 5-hydroxymethyluracil (hmU) and 2-deoxy-D-ribose 5-phosphate (deoxyribosephosphate) (PubMed:33833118). Catalyzes the second step in that pathway, the hydrolysis of the N-glycosidic bond in hmdUMP, degrading this cytotoxic nucleotide to avoid its genomic integration (PubMed:33833118)"
+  },
+  {
+    "index": 47,
+    "accession": "Q32ZL2",
+    "protein_name": "Phospholipid phosphatase-related protein type 5",
+    "ground_truth": "Induces filopodia formation and promotes neurite growth in a CDC42-independent manner; impedes neurite growth inhibitory-mediated axonal retraction",
+    "prediction": "Plays a role in signal transduction by regulating the intracellular concentration of cyclic nucleotides. This phosphodiesterase catalyzes the specific hydrolysis of cGMP to 5-GMP (PubMed:15489334, PubMed:9621518). Specifically regulates nitric-oxide-generated cGMP (PubMed:15489334)"
+  },
+  {
+    "index": 48,
+    "accession": "Q3I5F7",
+    "protein_name": "Acyl-coenzyme A thioesterase 6",
+    "ground_truth": "Catalyzes the hydrolysis of acyl-CoAs into free fatty acids and coenzyme A (CoASH), regulating their respective intracellular levels. Catalyzes the hydrolysis of phytanoyl-CoA and pristanoyl-CoA, two methyl-branched fatty acids derived from phytol, that enter the body via the diet",
+    "prediction": "Catalyzes the exchange of the acyl chain in acyl-dihydroxyacetonephosphate (acyl-DHAP) for a long chain fatty alcohol, yielding the first ether linked intermediate, i.e. alkyl-dihydroxyacetonephosphate (alkyl-DHAP), in the pathway of ether lipid biosynthesis"
+  },
+  {
+    "index": 49,
+    "accession": "Q3MIW9",
+    "protein_name": "Mucin-like protein 3",
+    "ground_truth": "May modulate NF-kappaB signaling and play a role in cell growth",
+    "prediction": "Microtubule-binding protein required for ciliogenesis (PubMed:28235840). May function in ciliogenesis by mediating the transport of proteins like BBS4 to the cilium, but also through the organization of the centriolar satellites (PubMed:28235840). Required for the assembly of signaling-competent cilia with proper structure and length (PubMed:36606424)."
+  },
+  {
+    "index": 50,
+    "accession": "Q3SY77",
+    "protein_name": "UDP-glucuronosyltransferase 3A2",
+    "ground_truth": "UDP-glucuronosyltransferases catalyze phase II biotransformation reactions in which lipophilic substrates are conjugated with glucuronic acid to increase water solubility and enhance excretion. They are of major importance in the conjugation and subsequent elimination of potentially toxic xenobiotics and endogenous compounds (By similarity)",
+    "prediction": "Exocytotic transporter that mediates the export of low-density lipoproteins (LDL) and fatty acids from the endoplasmic reticulum to the extracellular space. Mediates the export of cholesterol and phosphatidylcholines from the endoplasmic reticulum to the extracellular space. Can also catalyze the transport of phosphatidylcholines from the endoplasmic reticulum to the extracellular space (PubMed:21742973, PubMed:25920684, PubMed:28222325)."
+  },
+  {
+    "index": 51,
+    "accession": "Q495X7",
+    "protein_name": "Tripartite motif-containing protein 60",
+    "ground_truth": "E3 SUMO-protein ligase that mediates SUMOylation of TAB2 leading to inhibition of NF-kappa-B and MAPK pathways by suppressing the TRAF6/TAB2/TAK1 complex",
+    "prediction": "(Microbial infection) Stimulates the activity of Human Immunodeficiency Virus 1/HIV-1 pre-integration complex"
+  },
+  {
+    "index": 52,
+    "accession": "Q49SQ1",
+    "protein_name": "Probable G-protein coupled receptor 33",
+    "ground_truth": "Orphan receptor; could be a chemoattractant receptor",
+    "prediction": "C-type lectin-like receptor involved in natural killer cell mediated cytotoxicity and cytokine secretion in keratinocytes via its interaction with CLEC2A (PubMed:10089707, PubMed:10606424). Triggers degranulation in a SYK-dependent manner and stimulates SYK phosphotyrosinylation without recruiting SYK directly (PubMed:23782625)"
+  },
+  {
+    "index": 53,
+    "accession": "Q4G0F5",
+    "protein_name": "Vacuolar protein sorting-associated protein 26B",
+    "ground_truth": "Acts as a component of the retromer cargo-selective complex (CSC). The CSC is believed to be the core functional component of retromer or respective retromer complex variants acting to prevent missorting of selected transmembrane cargo proteins into the lysosomal degradation pathway. The recruitment of the CSC to the endosomal membrane involves RAB7A and SNX3.",
+    "prediction": "Functions as a molecular chaperone, assisting in the proper folding of secreted and/or membrane proteins. Plays a key role in the innate immune response as part of an interferon-dependent multiprotein complex, forming with TGFB1 and IFNAR1 to target and degrade viral RNAs (PubMed:25902258). Is involved in the identification and degradation of viral RNAs derived from double-stranded RNA viruses, especially from influenza A viruses and Ebola virus particles (PubMed:27222754)"
+  },
+  {
+    "index": 54,
+    "accession": "Q567V2",
+    "protein_name": "Mpv17-like protein 2",
+    "ground_truth": "Required for the assembly and stability of the mitochondrial ribosome (PubMed:24948607). Is a positive regulator of mitochondrial protein synthesis (PubMed:24948607)",
+    "prediction": "Converts 1-acyl-sn-glycerol-3-phosphate (lysophosphatidic acid or LPA) into 1,2-diacyl-sn-glycerol-3-phosphate (phosphatidic acid or PA) by incorporating an acyl moiety at the sn-2 position of the glycerol backbone"
+  },
+  {
+    "index": 55,
+    "accession": "Q5BIV9",
+    "protein_name": "Shadow of prion protein",
+    "ground_truth": "Prion-like protein that has PrP(C)-like neuroprotective activity. May act as a modulator for the biological actions of normal and abnormal PrP (By similarity)",
+    "prediction": "Myoblast-specific protein that mediates myoblast fusion, an essential step for the formation of multi-nucleated muscle fibers (PubMed:29681861). Actively participates in the membrane fusion reaction by mediating the mixing of cell membrane lipids (hemifusion) upstream of MYMX. Acts independently of MYMX (By similarity)."
+  },
+  {
+    "index": 56,
+    "accession": "Q5RIA9",
+    "protein_name": "Zinc-regulated GTPase metalloprotein activator 1E",
+    "ground_truth": "Zinc chaperone that directly transfers zinc cofactor to target metalloproteins, thereby activating them. Catalyzes zinc insertion into the active site of methionine aminopeptidase METAP1, which function to cleave the initiator methionine from polypeptides during or after protein translation. Mechanistically, the N-terminal psi-PxLVp motif binds to the C6H2-type zinc finger of inactive form of METAP1.",
+    "prediction": "Catalyzes the transfer of a ribitol-phosphate from CDP-ribitol to the distal N-acetylgalactosamine of the phosphorylated O-mannosyl trisaccharide (N-acetylgalactosamine-beta-3-N-acetylglucosamine-beta-4-(phosphate-6-)mannose), a carbohydrate structure present in alpha-dystroglycan (DAG1) (PubMed:26923585, PubMed:27463942, PubMed:28509675). This constitutes the first step in the formation of the ribitol 5-phosphate tandem repeat which links the phosphorylated O-mannosyl trisaccharide to the ligand binding moiety composed of repeats of 3-xylosyl-alpha-1,3-glucuronic acid-beta-1 (PubMed:17034759, PubMed:25279675, PubMed:26923585, PubMed:27463942, PubMed:28509675). Required for normal location of POMGNT1 in Golgi membranes, and for normal POMGNT1 activity (PubMed:17034759)."
+  },
+  {
+    "index": 57,
+    "accession": "Q5SY80",
+    "protein_name": "Cation channel sperm-associated auxiliary subunit epsilon",
+    "ground_truth": "Auxiliary component of the CatSper complex, a complex involved in sperm cell hyperactivation. Sperm cell hyperactivation is needed for sperm motility which is essential late in the preparation of sperm for fertilization",
+    "prediction": "Pore-forming component of the membrane attack complex (MAC), a multiprotein complex activated by the complement cascade, which inserts into a target cell membrane and forms a pore, leading to target cell membrane rupture and cell lysis (PubMed:22832194, PubMed:26841837, PubMed:26841934, PubMed:27052168, PubMed:30552328, PubMed:6177822, PubMed:9212048, PubMed:9634479). The MAC is initiated by proteolytic cleavage of C5 into complement C5b in response to the classical, alternative, lectin and GZMK complement pathways (PubMed:9212048, PubMed:9634479). The complement pathways consist in a cascade of proteins that leads to phagocytosis and breakdown of pathogens and signaling that strengthens the adaptive immune system (PubMed:9212048, PubMed:9634479)."
+  },
+  {
+    "index": 58,
+    "accession": "Q5T2E6",
+    "protein_name": "Armadillo-like helical domain-containing protein 3",
+    "ground_truth": "Involved in GBF1 recruitment, Golgi maintenance and protein secretion",
+    "prediction": "Constant component of the sarcoglycan complex, a subcomplex of the dystrophin-glycoprotein complex which forms a link between the F-actin cytoskeleton and the extracellular matrix"
+  },
+  {
+    "index": 59,
+    "accession": "Q5T4T1",
+    "protein_name": "Transmembrane protein 170B",
+    "ground_truth": "Negatively regulates the canonical Wnt signaling in breast cancer cells. Exerts an inhibitory effect on breast cancer growth by inhibiting CTNNB1 stabilization and nucleus translocation, which reduces the activity of Wnt targets (PubMed:29367600)",
+    "prediction": "Endoplasmic reticulum cargo receptor that mediates the export of lipoproteins by recruiting cargos into COPII vesicles to facilitate their secretion (PubMed:29643117, PubMed:30251625, PubMed:33186557). Acts as a cargo receptor for lipoproteins bearing both APOB and APOA1, thereby regulating lipoprotein delivery and the maintenance of lipid homeostasis (PubMed:29643117, PubMed:33186557). Synergizes with the GTPase SAR1B to mediate transport of circulating lipoproteins (PubMed:33186557)."
+  },
+  {
+    "index": 60,
+    "accession": "Q5TC12",
+    "protein_name": "ATP synthase mitochondrial F1 complex assembly factor 1",
+    "ground_truth": "Has a complex stabilizing activity in the assembly of the mitochondrial F1-F0 complex",
+    "prediction": "Part of a nucleolar small nuclear ribonucleoprotein particle (snoRNP) thought to participate in the processing and modification of pre-ribosomal RNA (pre-rRNA) (PubMed:26867678). Part of the small subunit (SSU) processome, first precursor of the small eukaryotic ribosomal subunit. During the assembly of the SSU processome in the nucleolus, many ribosome biogenesis factors, an RNA chaperone and ribosomal proteins associate with the nascent pre-rRNA and work in concert to generate RNA folding, modifications, rearrangements and cleavage as well as targeted degradation of pre-ribosomal RNA by the RNA exosome (PubMed:34516797)"
+  },
+  {
+    "index": 61,
+    "accession": "Q5TEC6",
+    "protein_name": "Histone H3-7",
+    "ground_truth": "Core component of nucleosome. Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular machineries which require DNA as a template. Histones thereby play a central role in transcription regulation, DNA repair, DNA replication and chromosomal stability.",
+    "prediction": "Component of the Arp2/3 complex, a multiprotein complex that mediates actin polymerization upon stimulation by nucleation-promoting factor (NPF) (PubMed:9230079). The Arp2/3 complex mediates the formation of branched actin networks in the cytoplasm, providing the force for cell motility (PubMed:9230079). In addition to its role in the cytoplasmic cytoskeleton, the Arp2/3 complex also promotes actin polymerization in the nucleus, thereby regulating gene transcription and repair of damaged DNA (PubMed:29925947)."
+  },
+  {
+    "index": 62,
+    "accession": "Q5TFQ8",
+    "protein_name": "Signal-regulatory protein beta-1 isoform 3",
+    "ground_truth": "Immunoglobulin-like cell surface receptor involved in the negative regulation of receptor tyrosine kinase-coupled signaling processes",
+    "prediction": "Pore-forming subunit of the voltage-gated potassium (Kv) M-channel which is responsible for the M-current, a key controller of neuronal excitability (PubMed:16319223, PubMed:27564677, PubMed:28793216, PubMed:9872318). M-channel is composed of pore-forming subunits KCNQ2 and KCNQ3 assembled as heterotetramers (PubMed:14534157, PubMed:16319223, PubMed:27564677, PubMed:9872318). The native M-current has a slowly activating and deactivating potassium conductance which plays a critical role in determining the subthreshold electrical excitability of neurons as well as the responsiveness to synaptic inputs (PubMed:14534157, PubMed:16319223, PubMed:28793216)."
+  },
+  {
+    "index": 63,
+    "accession": "Q5VTE0",
+    "protein_name": "Putative elongation factor 1-alpha-like 3",
+    "ground_truth": "This protein promotes the GTP-dependent binding of aminoacyl-tRNA to the A-site of ribosomes during protein biosynthesis",
+    "prediction": "Required for anchoring NADH dehydrogenase (Complex I) to the membrane in a membrane-bound heterotetramer (Complex I/II) or in an intracellular tetramer (Complex I/III). Required for anchoring glutaredoxin (GRAV) to the membrane in a membrane-bound heterotetramer (Complex I/II) or in an intracellular tetramer (Complex I/III). Plays a role in membrane-bound glutathione peroxidase (GTP) function by ensuring membrane-bound GTPase activity after GTP-dependent endocytosis."
+  },
+  {
+    "index": 64,
+    "accession": "Q5VXH4",
+    "protein_name": "PRAME family member 6",
+    "ground_truth": "Substrate-recognition component of a Cul2-RING (CRL2) E3 ubiquitin-protein ligase complex, which mediates ubiquitination of target proteins, leading to their degradation (PubMed:26138980). The CRL2(PRAMEF6) complex mediates ubiquitination and degradation of truncated MSRB1/SEPX1 selenoproteins produced by failed UGA/Sec decoding (PubMed:26138980)",
+    "prediction": "E3 ubiquitin-protein and E3 SUMO-protein ligase that acts as a regulator of innate immunity (PubMed:23056470). Acts as a negative regulator of type I interferon IFN-beta production by catalyzing Lys-48-linked polyubiquitination of AZI2/NAP1, leading to its degradation (By similarity). Mediates Lys-48-linked polyubiquitination and proteasomal degradation of the critical TLR adapter TICAM1, inhibiting TLR3-mediated type I interferon signaling (PubMed:23056470)."
+  },
+  {
+    "index": 65,
+    "accession": "Q5VXJ0",
+    "protein_name": "Lipase member K",
+    "ground_truth": "Plays a highly specific role in the last step of keratinocyte differentiation. May have an essential function in lipid metabolism of the most differentiated epidermal layers",
+    "prediction": "Catalyzes the NADPH-dependent reduction of a variety of carbonyl substrates, like aromatic aldehydes, alkenals, ketones and alpha-dicarbonyl compounds (PubMed:21276782, PubMed:26222439). In addition, catalyzes the reduction of androgens and estrogens with high positional selectivity (shows 17-beta-hydroxysteroid dehydrogenase activity) as well as 3-keto-acyl-CoAs (PubMed:25577493). Displays strong enzymatic activity toward all-trans-retinal and 9-cis-retinal (PubMed:26222439)."
+  },
+  {
+    "index": 66,
+    "accession": "Q5VXT5",
+    "protein_name": "Synaptophysin-like protein 2",
+    "ground_truth": "Involved in communication between the T-tubular and junctional sarcoplasmic reticulum (SR) membranes",
+    "prediction": "May play a role in modulating the immune response. May be a negative regulator of apoptosis"
+  },
+  {
+    "index": 67,
+    "accession": "Q66K66",
+    "protein_name": "Transmembrane protein 198",
+    "ground_truth": "Promotes LRP6 phosphorylation by casein kinases and thereby plays a role in Wnt signaling. May be a membrane scaffold protein involved in the self-aggregation of LRP6 to further enhance its activity",
+    "prediction": "Involved in the connection between the central and peripheral nervous systems and plays a role in axon guidance and synapse formation (By similarity). Acts as a ligand for NCX1/ERK1\u03b1, NCX2-ERK1\u03b1 and NCX3-ERK1\u03b1, leading to activation of the cytosolic ERK1\u03b1 (By similarity). Plays a role in orientation of axonal growth along extracellular matrix (By similarity)."
+  },
+  {
+    "index": 68,
+    "accession": "Q66LE6",
+    "protein_name": "Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B delta isoform",
+    "ground_truth": "Substrate-recognition subunit of protein phosphatase 2A (PP2A) that plays a key role in cell cycle by controlling mitosis entry and exit. Involved in chromosome clustering during late mitosis by mediating dephosphorylation of MKI67 (By similarity). The activity of PP2A complexes containing PPP2R2D (PR55-delta) fluctuate during the cell cycle: the activity is high in interphase and low in mitosis (By similarity)",
+    "prediction": "Component of the 17S U2 SnRNP complex of the spliceosome, a large ribonucleoprotein complex that removes introns from transcribed pre-mRNAs (PubMed:30567737, PubMed:32494662, PubMed:34251356). The 17S U2 SnRNP complex (1) directly participates in early spliceosome assembly and (2) mediates recognition of the intron branch site during pre-mRNA splicing by promoting the selection of the pre-mRNA branch-site adenosine, the nucleophile for the first step of splicing (PubMed:30567737, PubMed:32494662, PubMed:34251356). Within the 17S U2 SnRNP complex, HTATSF1 is required to stabilize the branchpoint-interacting stem loop (PubMed:34251356)."
+  },
+  {
+    "index": 69,
+    "accession": "Q6IPR1",
+    "protein_name": "Electron transfer flavoprotein regulatory factor 1",
+    "ground_truth": "Acts as a regulator of the electron transfer flavoprotein by promoting the removal of flavin from the ETF holoenzyme (composed of ETFA and ETFB)",
+    "prediction": "Key component of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), which catalyzes electron transfer from NADH through the respiratory chain, using ubiquinone as an electron acceptor (PubMed:15250827). Essential for the catalytic activity and assembly of complex I (PubMed:15250827)"
+  },
+  {
+    "index": 70,
+    "accession": "Q6IPT4",
+    "protein_name": "NADH-cytochrome b5 reductase-like",
+    "ground_truth": "NADH-cytochrome b5 reductases are involved in desaturation and elongation of fatty acids, cholesterol biosynthesis, drug metabolism, and, in erythrocyte, methemoglobin reduction",
+    "prediction": "Delivers 2-methyl-sn-glycerol-3-phosphate (MSP) to mRNA via an E3 ubiquitin-protein ligase mechanism. Inhibits apoptosis and promotes rejuvenation of dendritic cells (PubMed:19478736, PubMed:2400881, PubMed:28937718, PubMed:3465207). Required for proper phosphorylation of SINCER1/SNCA2, leading to stabilization of the transducer protein and enabling the transmission of mechanical signals from cells to their neighboring cells (PubMed:3465207)."
+  },
+  {
+    "index": 71,
+    "accession": "Q6J272",
+    "protein_name": "Ciliary microtubule inner protein 2A",
+    "ground_truth": "Microtubule inner protein (MIP) part of the dynein-decorated doublet microtubules (DMTs) in flagellum axoneme. Binds to the intra-tubulin interfaces",
+    "prediction": "Cytotoxicity-activating receptor that may contribute to the increased efficiency of activated natural killer (NK) cells to mediate tumor cell lysis"
+  },
+  {
+    "index": 72,
+    "accession": "Q6MZT1",
+    "protein_name": "Regulator of G-protein signaling 7-binding protein",
+    "ground_truth": "Regulator of G protein-coupled receptor (GPCR) signaling. Regulatory subunit of the R7-Gbeta5 complexes that acts by controlling the subcellular location of the R7-Gbeta5 complexes. When palmitoylated, it targets the R7-Gbeta5 complexes to the plasma membrane, leading to inhibit G protein alpha subunits.",
+    "prediction": "Acts as an actin-binding protein that plays a role in the organization of the actin cytoskeleton (PubMed:24125837). Binds to actin fibers in the cytoplasm and promotes polymerization of actin fibers at his-tagged sites in the nucleus and the endoplasmic reticulum (PubMed:24125837). Plays a role in cell migration and in the organization of migratory cells into patterns (By similarity)."
+  },
+  {
+    "index": 73,
+    "accession": "Q6NUK4",
+    "protein_name": "Receptor expression-enhancing protein 3",
+    "ground_truth": "Microtubule-binding protein required to ensure proper cell division and nuclear envelope reassembly by sequestering the endoplasmic reticulum away from chromosomes during mitosis. Probably acts by clearing the endoplasmic reticulum membrane from metaphase chromosomes",
+    "prediction": "May play a role in regulation of cell migration. May also play a role in neuronal migration (By similarity)"
+  },
+  {
+    "index": 74,
+    "accession": "Q6NUM6",
+    "protein_name": "S-adenosyl-L-methionine-dependent tRNA 4-demethylwyosine synthase TYW1B",
+    "ground_truth": "Probable component of the wybutosine biosynthesis pathway. Wybutosine is a hyper modified guanosine with a tricyclic base found at the 3-position adjacent to the anticodon of eukaryotic phenylalanine tRNA. Catalyzes the condensation of N-methylguanine with 2 carbon atoms from pyruvate to form the tricyclic 4-demethylwyosine, an intermediate in wybutosine biosynthesis (By similarity)",
+    "prediction": "Catalyzes the transfer of a ribitol-phosphate from CDP-ribitol to the distal N-acetylgalactosamine of the phosphorylated O-mannosyl trisaccharide (N-acetylgalactosamine-beta-3-N-acetylglucosamine-beta-4-(phosphate-6-)mannose), a carbohydrate structure present in alpha-dystroglycan (DAG1) (PubMed:26923585, PubMed:27194101, PubMed:29477842). This constitutes the first step in the formation of the ribitol 5-phosphate tandem repeat which links the phosphorylated O-mannosyl trisaccharide to the ligand binding moiety composed of repeats of 3-xylosyl-alpha-1,3-glucuronic acid-beta-1 (PubMed:17034757, PubMed:25279699, PubMed:26923585, PubMed:27194101, PubMed:29477842). Required for normal location of POMGNT1 in Golgi membranes, and for normal POMGNT1 activity (PubMed:17034757)."
+  },
+  {
+    "index": 75,
+    "accession": "Q6NW34",
+    "protein_name": "Nucleolus and neural progenitor protein",
+    "ground_truth": "May play a role in cortex development as part of the Notch signaling pathway. Downstream of Notch may repress the expression of proneural genes and inhibit neuronal differentiation thereby maintaining neural progenitors. May also play a role in preimplentation embryo development",
+    "prediction": "Glycogenin participates in the glycogen biosynthetic process along with glycogen synthase and glycogen branching enzyme. It catalyzes the formation of a short alpha (1,4)-glucosyl chain covalently attached via a glucose 1-O-tyrosyl linkage to internal tyrosine residues and these chains act as primers for the elongation reaction catalyzed by glycogen synthase"
+  },
+  {
+    "index": 76,
+    "accession": "Q6P2I3",
+    "protein_name": "Oxaloacetate tautomerase FAHD2B, mitochondrial",
+    "ground_truth": "Tautomerase that converts enol-oxaloacetate, a strong inhibitor of succinate dehydrogenase, to the physiological keto form of oxaloacetate (PubMed:38287013). It is thereby required to maximize aerobic respiration efficiency by preventing succinate dehydrogenase inhibition (PubMed:38287013)",
+    "prediction": "Catalyzes the first and rate-limiting reaction of the four reactions that constitute the long-chain fatty acids elongation cycle. This endoplasmic reticulum-bound enzymatic process allows the addition of 2 carbons to the chain of long- and very long-chain fatty acids (VLCFAs) per cycle. Condensing enzyme with higher activity toward C18 acyl-CoAs, especially C18:3(n-3) acyl-CoAs and C18:3(n-6)-CoAs."
+  },
+  {
+    "index": 77,
+    "accession": "Q6P3S6",
+    "protein_name": "F-box only protein 42",
+    "ground_truth": "Substrate-recognition component of some SCF (SKP1-CUL1-F-box protein)-type E3 ubiquitin ligase complex. Specifically recognizes p53/TP53, promoting its ubiquitination and degradation",
+    "prediction": "Transcriptional repressor involved in circadian rhythm regulation. Binds to the promoter region of target genes and modulates their expression. May play a role in the regulation of the circadian clock by altering the expression of multiple genes involved in different biological processes"
+  },
+  {
+    "index": 78,
+    "accession": "Q6P444",
+    "protein_name": "Mitochondrial fission regulator 2",
+    "ground_truth": "May play a role in mitochondrial aerobic respiration essentially in the testis. Can also promote mitochondrial fission (By similarity)",
+    "prediction": "Component of the 17S U2 SnRNP complex of the spliceosome, a large ribonucleoprotein complex that removes introns from transcribed pre-mRNAs (PubMed:30567737, PubMed:32494006, PubMed:34822310). The 17S U2 SnRNP complex (1) directly participates in early spliceosome assembly and (2) mediates recognition of the intron branch site during pre-mRNA splicing by promoting the selection of the pre-mRNA branch-site adenosine, the nucleophile for the first step of splicing (PubMed:30567737, PubMed:32494006, PubMed:34822310). Within the 17S U2 SnRNP complex, HTATSF1 is required to stabilize the branchpoint-interacting stem loop (PubMed:34822310)."
+  },
+  {
+    "index": 79,
+    "accession": "Q6SJ96",
+    "protein_name": "TATA box-binding protein-like 2",
+    "ground_truth": "Transcription factor required in complex with TAF3 for the differentiation of myoblasts into myocytes. The complex replaces TFIID at specific promoters at an early stage in the differentiation process (By similarity)",
+    "prediction": "Serine/threonine-protein kinase that plays a central role in centriole duplication. Able to trigger procentriole formation on the surface of the parental centriole cylinder, leading to the recruitment of centriole biogenesis proteins such as SASS6, CPAP, CCP110, CEP135 and gamma-tubulin. When overexpressed, it is able to induce centrosome amplification through the simultaneous generation of multiple procentrioles adjoining each parental centriole during S phase."
+  },
+  {
+    "index": 80,
+    "accession": "Q6UWQ7",
+    "protein_name": "Insulin growth factor-like family member 2",
+    "ground_truth": "Potential ligand of the IGFLR1 cell membrane receptor",
+    "prediction": "Endonuclease that catalyzes the cleavage of RNA on the 3 side of pyrimidine nucleotides. Acts on single-stranded and double-stranded RNA"
+  },
+  {
+    "index": 81,
+    "accession": "Q6UXT9",
+    "protein_name": "Protein ABHD15",
+    "ground_truth": "May regulate adipocyte lipolysis and liver lipid accumulation",
+    "prediction": "Bifunctional enzyme that acts both as an endopeptidase and 2-oxoglutarate-dependent monooxygenase (PubMed:28847961, PubMed:29915238). Endopeptidase that cleaves histones N-terminal tails at the carboxyl side of methylated arginine or lysine residues, to generate tailless nucleosomes, which may trigger transcription elongation (PubMed:28847961). Preferentially recognizes and cleaves monomethylated and dimethylated arginine residues of histones H2, H3 and H4 (PubMed:28847961)."
+  },
+  {
+    "index": 82,
+    "accession": "Q6YI46",
+    "protein_name": "Transmembrane protein 64",
+    "ground_truth": "Positively regulates TNFSF11-induced osteoclast differentiation. Acts as a regulator of TNFSF11-mediated Ca(2) signaling pathways via its interaction with SERCA2 which is critical for the TNFSF11-induced CREB1 activation and mitochondrial ROS generation necessary for proper osteoclast generation. Association between TMEM64 and SERCA2 in the ER leads to cytosolic Ca (2) spiking for activation of NFATC1 and production of mitochondrial ROS, thereby triggering Ca (2) signaling cascades that promote osteoclast differentiation and activation.",
+    "prediction": "Ligand for members of the frizzled family of seven transmembrane receptors. Functions in the canonical Wnt signaling pathway that results in activation of transcription factors of the TCF/LEF family (PubMed:20018874). Functions as a upstream regulator of FGF10 expression."
+  },
+  {
+    "index": 83,
+    "accession": "Q6ZP65",
+    "protein_name": "BICD family-like cargo adapter 1",
+    "ground_truth": "Acts as an adapter protein linking the dynein motor complex to various cargos and converts dynein from a non-processive to a highly processive motor in the presence of dynactin. Facilitates the interaction between dynein and dynactin and activates dynein processivity (the ability to move along a microtubule for a long distance without falling off the track). Predominantly recruits 2 dyneins, which increases both the force and speed of the microtubule motor.",
+    "prediction": "Pore-forming component of the voltage-gated potassium (Kv) M-channel which is responsible for the M-current, a key controller of neuronal excitability (PubMed:16319223, PubMed:27564677, PubMed:28793216, PubMed:9872318). M-channel is composed of pore-forming subunits KCNQ2 and KCNQ3 assembled as heterotetramers (PubMed:14534157, PubMed:16319223, PubMed:27564677, PubMed:9872318). The native M-current has a slowly activating and deactivating potassium conductance which plays a critical role in determining the subthreshold electrical excitability of neurons as well as the responsiveness to synaptic inputs (PubMed:14534157, PubMed:16319223, PubMed:28793216)."
+  },
+  {
+    "index": 84,
+    "accession": "Q6ZS72",
+    "protein_name": "Protein PEAK3",
+    "ground_truth": "Probable catalytically inactive kinase (Probable). Interacts with CRK-II and antagonizes CRK-II-signaling. Prevents the formation of CRK-II-dependent membrane ruffling and lamellipodia-like extensions (PubMed:31311869)",
+    "prediction": "Transcription factor that binds to DNA at the consensus sequence 5-ACCAAAG-3 (By similarity). Acts as a transcriptional activator (By similarity). Binds cooperatively with POU3F2/BRN2 or POU3F1/ERR17 to gene promoters, which enhances transcriptional activation (By similarity)."
+  },
+  {
+    "index": 85,
+    "accession": "Q6ZTR7",
+    "protein_name": "CBY1-interacting BAR domain-containing protein 2",
+    "ground_truth": "May play a role in ciliogenesis (By similarity). In cooperation with CBY1 may facilitate ciliogenesis likely by the recruitment and fusion of endosomal vesicles at distal appendages during early stages of ciliogenesis (PubMed:27528616)",
+    "prediction": "Probable effector of the planar cell polarity signaling pathway which regulates the septin cytoskeleton in both ciliogenesis and collective cell movements. Together with FUZ and WDPCP proposed to function as core component of the CPLANE (ciliogenesis and planar polarity effectors) complex involved in the recruitment of peripheral IFT-A proteins to basal bodies (By similarity). Binds phosphatidylinositol 3-phosphate with highest affinity, followed by phosphatidylinositol 4-phosphate and phosphatidylinositol 5-phosphate (PubMed:35427153)"
+  },
+  {
+    "index": 86,
+    "accession": "Q6ZWE6",
+    "protein_name": "Pleckstrin homology domain-containing family M member 3",
+    "ground_truth": "Involved in skeletal muscle differentiation. May act as a scaffold protein for AKT1 during muscle differentiation",
+    "prediction": "Functions in the suppression of axonogenesis by promoting the expression of arrestin-2 in axon precursor cells. Promotes cell proliferation of these precursors via interaction with the cell cycle regulator CDK1/E2. Required for normal udder epithelial cell proliferation and maintenance."
+  },
+  {
+    "index": 87,
+    "accession": "Q75VX8",
+    "protein_name": "GRB2-associated and regulator of MAPK protein 2",
+    "ground_truth": "Probable adapter protein that may provide a link between cell surface epidermal growth factor receptor and the MAPK/ERK signaling pathway",
+    "prediction": "Component of the dyad IKBKE and IKBL genes that form a molecular switch governing apoptosis in response to inhibitory signals from mitochondria and other plasma membrane proteins (PubMed:14754987, PubMed:15306816, PubMed:18839144). Involved in mediating apoptosis in response to enrichment of plasma membrane K+ by IKBKE and IKBL genes and in preventing apoptosis when IKBKE and IKBL are constitutively expressed (PubMed:14754987, PubMed:15306816, PubMed:18839144). Acts via the RCAS pathway (PubMed:18839144)."
+  },
+  {
+    "index": 88,
+    "accession": "Q76B58",
+    "protein_name": "BMP/retinoic acid-inducible neural-specific protein 3",
+    "ground_truth": "Inhibits neuronal cell proliferation by negative regulation of the cell cycle transition. Promotes pituitary gonadotrope cell proliferation, migration and invasion, when overexpressed. May play a role in cell pituitary tumor development",
+    "prediction": "Cytokine that plays an essential role in the regulation of survival, proliferation and differentiation of hematopoietic precursor cells, especially mononuclear phagocytes, such as macrophages and monocytes. Promotes the release of pro-inflammatory chemokines, and thereby plays an important role in innate immunity and in inflammatory processes. Plays an important role in the regulation of osteoclast proliferation and differentiation, the regulation of bone resorption, and is required for normal bone development."
+  },
+  {
+    "index": 89,
+    "accession": "Q7RTV3",
+    "protein_name": "Zinc finger protein 367",
+    "ground_truth": "Transcriptional activator. Isoform 1 may be involved in transcriptional activation of erythroid genes",
+    "prediction": "Transcription factor that plays an essential role in both trophoblast giant cell differentiation and in cardiac morphogenesis (By similarity). Binds the DNA sequence 5-NRTCTG-3 (non-canonical E-box) (By similarity). Acts as a transcriptional repressor of SOX15 (By similarity)."
+  },
+  {
+    "index": 90,
+    "accession": "Q7Z404",
+    "protein_name": "Voltage-gated chloride channel TMC4",
+    "ground_truth": "Voltage-gated chloride channel involved in high-concentration salt taste sensation (PubMed:34429071, PubMed:34468713). Depolarization induced by high NaCl concentration may trigger the activation of TMC4-mediated chloride influx into taste bud cells, helping the return to resting potential (PubMed:34429071). Also allows permeation of organic anions including gluconate, but their current amplitudes at positive potentials are less than that of chloride (PubMed:34429071).",
+    "prediction": "After binding acetylcholine, the AChR responds by an extensive change in conformation that affects all subunits and leads to opening of an ion-conducting channel across the plasma membrane"
+  },
+  {
+    "index": 91,
+    "accession": "Q7Z4H9",
+    "protein_name": "Protein FAM220A",
+    "ground_truth": "Promotes dephosphorylation of transcriptional activator STAT3 by interacting with both STAT3 and protein phosphatase PTPN2. This promotes interaction of PTPN2 with STAT3 and mediates STAT3 dephosphorylation by PTPN2, leading to negative regulation of STAT3 transcriptional activator activity. May be required for spermiogenesis or sperm function",
+    "prediction": "Transcription factor which may play a role in oogenesis. Binds preferentially to the DNA sequences 5-TAATTG-3, 5-TAGTTG-3 and 5-TAATTA-3"
+  },
+  {
+    "index": 92,
+    "accession": "Q86V21",
+    "protein_name": "Acetoacetyl-CoA synthetase",
+    "ground_truth": "Converts acetoacetate to acetoacetyl-CoA in the cytosol (By similarity). Ketone body-utilizing enzyme, responsible for the synthesis of cholesterol and fatty acids (By similarity)",
+    "prediction": "Catalyzes the NADPH-dependent reduction of various carbonyl-containing compounds, including aldehydes, ketones, and toxic products from cellular metabolism or environmental exposure. Can reduce the dialdehyde form of aflatoxin B1 (AFB1) into alcohol derivatives, via monoaldehydes intermediates. Can reduce the dialdehyde form of aflatoxin B1 (AFB1) into alcohol derivatives, via monoaldehydes intermediates, thus preventing the formation of protein adducts that contribute to AFB1-induced toxicity"
+  },
+  {
+    "index": 93,
+    "accession": "Q86WW8",
+    "protein_name": "Cytochrome c oxidase assembly factor 5",
+    "ground_truth": "Involved in an early step of the mitochondrial complex IV assembly process",
+    "prediction": "Involved in the modulation of the mitochondrial apoptotic pathway by ensuring the accumulation of cardiolipin (CL) in mitochondrial membranes. In vitro, the TRIAP1:PRELID1 complex mediates the transfer of phosphatidic acid (PA) between liposomes and probably functions as a PA transporter across the mitochondrion intermembrane space to provide PA for CL synthesis in the inner membrane (PubMed:23931759). Likewise, the TRIAP1:PRELID3A complex mediates the transfer of phosphatidic acid (PA) between liposomes (in vitro) and probably functions as a PA transporter across the mitochondrion intermembrane space (in vivo) (PubMed:26071602)."
+  },
+  {
+    "index": 94,
+    "accession": "Q86X76",
+    "protein_name": "Deaminated glutathione amidase",
+    "ground_truth": "Catalyzes the hydrolysis of the amide bond in N-(4-oxoglutarate)-L-cysteinylglycine (deaminated glutathione), a metabolite repair reaction to dispose of the harmful deaminated glutathione. Plays a role in cell growth and apoptosis: loss of expression promotes cell growth, resistance to DNA damage stress and increased incidence to NMBA-induced tumors. Has tumor suppressor properties that enhances the apoptotic responsiveness in cancer cells; this effect is additive to the tumor suppressor activity of FHIT.",
+    "prediction": "Delivers 3-phospho-5-adenylyl sulfate (PAPS) to mitochondrial membrane-bound ribosomes, enhancing the expression of ribosomal proteins that are involved in translation and stress responses. In cellular systems, this molecule acts as a messenger between the mitochondria and the nucleus, passing on the signal to increase the expression of ribosomal proteins through PAPS transfer to ribosomal RNA (RNA) precursors (PubMed:26987068). In addition, provides 4-phospho-5-triphospho-A-ribosyl phosphate (PAP) to mitochondrial membrane-bound ribosomes, suppressing the expression of ribosomal proteins and promoting mitochondrial apoptosis (PubMed:23801396)."
+  },
+  {
+    "index": 95,
+    "accession": "Q86X83",
+    "protein_name": "COMM domain-containing protein 2",
+    "ground_truth": "Scaffold protein in the commander complex that is essential for endosomal recycling of transmembrane cargos; the commander complex is composed of the CCC subcomplex and the retriever subcomplex (PubMed:37172566, PubMed:38459129). May modulate activity of cullin-RING E3 ubiquitin ligase (CRL) complexes (PubMed:21778237). May down-regulate activation of NF-kappa-B (PubMed:15799966)",
+    "prediction": "Converts D-glucuronic acid residues adjacent to N-sulfate sugar residues to L-iduronic acid residues, both in maturing heparan sulfate (HS) and heparin chains. This is important for further modifications that determine the specificity of interactions between these glycosaminoglycans and proteins"
+  },
+  {
+    "index": 96,
+    "accession": "Q8IUE0",
+    "protein_name": "Homeobox protein TGIF2LY",
+    "ground_truth": "May have a transcription role in testis. May act as a competitor/regulator of TGIF2LX",
+    "prediction": "Transcriptional repressor that binds to the promoter region of target genes. Plays a role in the regulation of the cell cycle and of the Wnt pathway. Binds preferentially to the sequence 5-TTCATTCATTCA-3."
+  },
+  {
+    "index": 97,
+    "accession": "Q8IUZ0",
+    "protein_name": "Leucine-rich repeat-containing protein 49",
+    "ground_truth": "Subunit of the tubulin polyglutamylase complex (TPGC). The complex mediates cilia and flagella polyglutamylation which is essential for their biogenesis and motility",
+    "prediction": "Functions in DNA double-strand breaks (DSBs) formation and repair. Acts in conjunction with RAD51C to promote DSBs formation on DNA duplexes in vitro. Part of the DSB-inducing complex (DEC) mediates DSBs formation in vivo as part of a larger complex involving RAD51A, RAD51B and p53/TP53."
+  },
+  {
+    "index": 98,
+    "accession": "Q8IVN3",
+    "protein_name": "Musculoskeletal embryonic nuclear protein 1",
+    "ground_truth": "Required for chondrocyte development and proliferation. Plays a role in myoblast differentiation and fusion. Modulates skeletal muscle extracellular matrix composition.",
+    "prediction": "Accessory subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I), that is believed not to be involved in catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone"
+  },
+  {
+    "index": 99,
+    "accession": "Q8IVW1",
+    "protein_name": "ADP-ribosylation factor-like protein 17",
+    "ground_truth": "GTP-binding protein that functions as an allosteric activator of the cholera toxin catalytic subunit, an ADP-ribosyltransferase. Involved in protein trafficking; may modulate vesicle budding and uncoating within the Golgi apparatus (By similarity)",
+    "prediction": "Transcription factor which may play a role in oogenesis. Binds preferentially to the DNA sequences 5-TAATTG-3, 5-TAGTTG-3 and 5-TAATTA-3"
+  }
+]
